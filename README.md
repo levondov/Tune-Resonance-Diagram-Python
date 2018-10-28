@@ -11,7 +11,7 @@ See tunediagram.py for more info/details
 ```python
 >>> from tunediagram import *
 >>> 
->>> tunediagram(order=[1,2,3],color='ordered')
+>>> tunediagram(order=[1,2,3],colors='ordered')
 ```
 ![](pics/ex1.png)
 ```python
